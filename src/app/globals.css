@@ -60,6 +60,9 @@
 
 @theme {
   --font-ibm-plex-sans: [ "IBM Plex Sans", "sans-serif"];
+
+  --breakpoint-xs: 480px;
+  
   --color-primary: #e7c9a5;
   --color-primary-admin: #25388c;
 
